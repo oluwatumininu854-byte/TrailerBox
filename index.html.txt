@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrailerBox | Cinematic Book Trailers</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX');
+    </script>
+</head>
+<body>
+
+    <header>
+        <div class="container nav-flex">
+            <div class="logo">TRAILER<span>BOX</span></div>
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="portfolio.html">Portfolio</a>
+                <a href="services.html">Services</a>
+                <a href="contact.html" class="btn-nav">Get a Quote</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Stop the Scroll. <br><span>Sell the Story.</span></h1>
+            <p>TrailerBox produces high-impact cinematic book trailers designed to turn viewers into readers.</p>
+            <div class="hero-btns">
+                <a href="contact.html" class="btn-main">Start Your Project</a>
+                <a href="portfolio.html" class="btn-link">View Our Work</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="container section">
+        <div class="grid-2">
+            <div class="intro-text">
+                <h2>Why TrailerBox?</h2>
+                <p>In a world of infinite scrolling, your book needs more than just a cover. It needs a cinematic presence. We specialize in genre-specific trailers that capture the mood, the stakes, and the soul of your manuscript.</p>
+            </div>
+            <div class="intro-stats">
+                <div class="stat-card"><strong>80%</strong><p>Increase in Engagement</p></div>
+                <div class="stat-card"><strong>4K</strong><p>Ultra HD Quality</p></div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 TrailerBox Production. Every frame tells a story.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
